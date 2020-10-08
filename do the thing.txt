@@ -1,0 +1,9 @@
+write these commands in the folder containing both main.c and fort_func.f90.
+
+gcc -c main.c
+
+gfortran main.o fort_func.f90
+
+a.exe
+
+to be amazed
